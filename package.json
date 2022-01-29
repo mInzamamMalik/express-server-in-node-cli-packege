@@ -1,0 +1,28 @@
+{
+  "name": "webexe",
+  "version": "1.0.0",
+  "description": "",
+  "bin": {
+    "webex": "./bin/index.mjs"
+  },
+  "preferGlobal": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malikasinger1/express-server-in-node-cli-packege.git"
+  },
+  "author": "M Inzamam Malik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/malikasinger1/express-server-in-node-cli-packege/issues"
+  },
+  "homepage": "https://github.com/malikasinger1/express-server-in-node-cli-packege#readme",
+  "dependencies": {
+    "colors": "^1.2.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "lodash": "^4.17.5"
+  }
+}
